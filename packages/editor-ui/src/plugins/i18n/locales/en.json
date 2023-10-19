@@ -1,4 +1,9 @@
 {
+
+	"_brand.name": "UnBoxing Community",
+	"about.aboutN8n": "About UnBoxing Community: An electric & electronic products resource \nmanagement engineering community led \nmarketplace platform helping you make \ndecisions with an “Intelligent Purchasing \nThought Process”.",
+	"about.n8nVersion": "UnBoxing Community Version",
+
 	"_reusableBaseText": {
 		"cancel": "Cancel",
 		"codeNodeEditor": {
@@ -19,6 +24,7 @@
 		"activate": "Activate",
 		"error": "Error"
 	},
+
 	"_reusableDynamicText": {
 		"readMore": "Read more",
 		"learnMore": "Learn more",
